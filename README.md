@@ -47,4 +47,6 @@ The workflow is as follows:
 
 ## Other Resources
 
+The [PISA documentation](https://pisa-engine.github.io/pisa/book/guide/indexing-pipeline.html) might be useful.
+
 Some of this pipeline was documented for the [SPLADE authors](https://github.com/naver/splade/tree/main/efficient_splade_pisa). You may also be interested in checking out [Pyterrier's PISA wrapper](https://github.com/terrierteam/pyterrier_pisa) for a Python interface into PISA.
