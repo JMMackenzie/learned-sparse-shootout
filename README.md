@@ -20,14 +20,14 @@ numpages = {28},
 ```
 
 ## Data
-To help with reproducibility, the CIFF files are provided. This means the initial indexing/json processing and document reordering can be skipped.
-The data files are available: XXX todo.
+You will require a unique URL with a password to get the data due to the old data storage platform being decommissioned.
+Please create a github issue or contact Joel directly: joel.mackenzie@uq.edu.au
 
 ## Overview
 
 You need to do three main things to reproduce the experiments.
 
-1. Get the data: `get-data.sh`
+1. Get the data: ~`get-data.sh`~ See above.
 2. Build the indexes: `build-indexes.sh`
 3. Run the queries/experiments: `run-queries.sh`
 
